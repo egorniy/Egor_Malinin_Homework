@@ -1,0 +1,6 @@
+f = open('d:\\Project\\Homework\\24.09.21\\egor.txt','r')
+print(f.read())
+f.close()
+f = open('d:\\Project\\Homework\\egor2.txt','r')
+print(f.read())
+f.close()
